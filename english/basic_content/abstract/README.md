@@ -22,7 +22,7 @@ public:
 
  * Pure virtual function: virtual function without function body
  * Abstract classes: classes containing pure virtual functions
-
+No need
 Abstract classes can only be used as base classes to derive new classes. Objects, pointers and references of abstract classes cannot be created->An object of a class derived from an abstract class!
 
 > Code example：[test.cpp](./test.cpp)、[pure_virtual.cpp](./pure_virtual.cpp)
