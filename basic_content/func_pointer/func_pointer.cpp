@@ -28,4 +28,5 @@ int main() {
   pfun();             /*调用*/
   pFun = glFun;
   (*pFun)(2);
+  pFun(3);
 }

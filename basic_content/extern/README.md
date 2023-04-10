@@ -20,7 +20,7 @@ C++虽然兼容C，但C++文件中函数编译后生成的符号与C语言生成
 
 C++调用C函数的例子: 引用C的头文件时，需要加`extern "C"`
 
-```c++
+```cpp
 //add.h
 #ifndef ADD_H
 #define ADD_H
