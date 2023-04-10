@@ -19,7 +19,7 @@ public:
 
 class Derived : public Base {
 public:
-  void fun() { cout << "fun() called"; } // 实现了fun()函数
+  void fun() { cout << "fun() called" << endl; } // 实现了fun()函数
 };
 
 int main(void) {

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/assert.dir/assert.c.o -o assert 

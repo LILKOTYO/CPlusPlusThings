@@ -16,7 +16,7 @@ protected:
 
 public:
   virtual void fun() = 0;
-  Base(int i) { x = i; }
+  Base(int i = 2) { x = i; }
 };
 
 class Derived : public Base {
@@ -24,11 +24,12 @@ class Derived : public Base {
 
 public:
   Derived(int i, int j) : Base(i) { y = j; }
-  void fun() { cout << "x = " << x << ", y = " << y; }
+  Derived(int j) : Base() { y = j; }
+  void fun() { cout << "x = " << x << ", y = " << y << endl; }
 };
 
 int main(void) {
-  Derived d(4, 5);
+  Derived d(5);
   d.fun();
   return 0;
 }

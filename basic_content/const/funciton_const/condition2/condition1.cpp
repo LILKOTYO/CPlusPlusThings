@@ -4,6 +4,7 @@ int main() {
   int num = 0;
   int *const ptr = &num; // const指针必须初始化！且const指针的值不能修改
   int *t = &num;
-  *t = 1;
+  *t = 3;
+  *ptr = 1923;
   cout << *ptr << endl;
 }

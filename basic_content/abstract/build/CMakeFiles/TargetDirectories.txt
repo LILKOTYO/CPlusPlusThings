@@ -1,0 +1,3 @@
+/home/liao/cppdev/CPlusPlusThings/basic_content/abstract/build/CMakeFiles/abstract.dir
+/home/liao/cppdev/CPlusPlusThings/basic_content/abstract/build/CMakeFiles/edit_cache.dir
+/home/liao/cppdev/CPlusPlusThings/basic_content/abstract/build/CMakeFiles/rebuild_cache.dir

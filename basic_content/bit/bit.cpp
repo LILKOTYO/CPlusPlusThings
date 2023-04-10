@@ -14,5 +14,6 @@ int main() {
   cout << s.field2 << endl;
   cout << s.field3 << endl;
   cout << sizeof(s) << endl;
+  cout << sizeof(unsigned int) << endl;
   return 0;
 }

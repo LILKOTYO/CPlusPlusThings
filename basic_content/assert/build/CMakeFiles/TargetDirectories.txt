@@ -1,0 +1,3 @@
+/home/liao/cppdev/CPlusPlusThings/basic_content/assert/build/CMakeFiles/assert.dir
+/home/liao/cppdev/CPlusPlusThings/basic_content/assert/build/CMakeFiles/edit_cache.dir
+/home/liao/cppdev/CPlusPlusThings/basic_content/assert/build/CMakeFiles/rebuild_cache.dir
